@@ -4,3 +4,4 @@ pathlib
 python-dotenv
 gspread
 gunicorn
+pandas
